@@ -27,7 +27,7 @@ All members of the I-ROAR Data Collector Consortium contributed to data collecti
 I-ROAR Data Collector Consortium Members:
 - Emanuele Casani, Pompeu Fabra University, https://orcid.org/0000-0002-7387-3000
 - Nicole Mastrangelo, University of Trieste
-- Maristells Scorza, University of Modena and Reggio Emilia
+- Maristella Scorza, University of Modena and Reggio Emilia
 - Daniela Traficante, Catholic University of Sacred Heart, https://orcid.org/0000-0002-3974-6964
 - Francesco Vespignani, University of Padua, https://orcid.org/0000-0002-0474-6921
 
