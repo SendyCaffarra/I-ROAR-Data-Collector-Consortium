@@ -18,7 +18,6 @@ Named authors in the manuscript represent the study guarantors and writing team.
 Researchers qualify for membership in the I-ROAR Data Collector Consortium if they meet all of the following criteria:
 - Substantial contribution to data collection or data curation for an I-ROAR project
 - Adherence to the approved study protocol, including ethical and data quality requirements
-- Agreement to consortium authorship, including group authorship representation
 
 # A general contribution statement used in manuscripts is:
 All members of the I-ROAR Data Collector Consortium contributed to data collection or curation.
@@ -28,6 +27,7 @@ I-ROAR Data Collector Consortium Members:
 - Emanuele Casani, Pompeu Fabra University, https://orcid.org/0000-0002-7387-3000
 - Nicole Mastrangelo, Consiglio Nazionale delle Ricerche - Istituto per la Ricerca e l'Innovazione Biomedica (CNR-IRIB)
 - Maristella Scorza, University of Modena and Reggio Emilia
+- Lorenzo Semprini, University of Padua
 - Daniela Traficante, Catholic University of Sacred Heart, https://orcid.org/0000-0002-3974-6964
 - Francesco Vespignani, University of Padua, https://orcid.org/0000-0002-0474-6921
 
