@@ -28,6 +28,6 @@ I-ROAR Data Collector Consortium Members:
 - Nicole Mastrangelo, Consiglio Nazionale delle Ricerche - Istituto per la Ricerca e l'Innovazione Biomedica (CNR-IRIB)
 - Maristella Scorza, University of Modena and Reggio Emilia
 - Lorenzo Semprini, University of Padua
-- Daniela Traficante, Catholic University of Sacred Heart, https://orcid.org/0000-0002-3974-6964
+- Daniela Traficante, Catholic University of Sacred Heart, https://orcid.org/0000-0002-6861-1452
 - Francesco Vespignani, University of Padua, https://orcid.org/0000-0002-0474-6921
 
